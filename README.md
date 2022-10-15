@@ -10,7 +10,7 @@ On this site I would like to share my all gained experience from personal studie
 - [Testlink](https://testlink.org/) - Test Management tool
 # Tech skills
 - SQL
-- Software testing
+- Manual software testing
 - Creating test cases
 - Reporting bugs
 # Certificates
