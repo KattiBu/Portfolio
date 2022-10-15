@@ -14,8 +14,8 @@ On this site I would like to share my all gained experience from personal studie
 - Creating test cases
 - Reporting bugs
 # Certificates
-  - [ISTQB](https://drive.google.com/drive/u/1/folders/1l9kfTNxvg7gEFQuBvo0dqdFacZMTvU-o) - No 18815/CTFL/2022
-  - [Certyfikat ukończenia Praktyczny kurs testowania oprogramowania](https://drive.google.com/drive/u/1/folders/1l9kfTNxvg7gEFQuBvo0dqdFacZMTvU-o)
+  - [ISTQB](https://drive.google.com/drive/folders/1l9kfTNxvg7gEFQuBvo0dqdFacZMTvU-o?usp=sharing) - No 18815/CTFL/2022
+  - [Certyfikat ukończenia Praktyczny kurs testowania oprogramowania](https://drive.google.com/drive/folders/1l9kfTNxvg7gEFQuBvo0dqdFacZMTvU-o?usp=sharing)
 # Courses
   - [UDEMY Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
   - [UDEMY MySQL tworzenie i zarządzanie bazami danych](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/) - during the course
@@ -25,7 +25,7 @@ On this site I would like to share my all gained experience from personal studie
   - Testowanie oprogramowania - Materiały | Porady
   - Testowanie oprogramowania
   - Zostań Testerem Manualnym
-# My test case examples
-  - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
+# My test plan and test case examples
+  - [Test plan and test cases for Application MrBuggy6](https://drive.google.com/drive/folders/190qCpnDe-jjNWI9tHb6BUlyXY-Mmx4gH?usp=sharing)
 # My bug reports
-  - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
+  - [Bugs reported for Application MrBuggy6](https://drive.google.com/drive/folders/190qCpnDe-jjNWI9tHb6BUlyXY-Mmx4gH?usp=sharing)
