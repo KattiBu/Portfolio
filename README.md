@@ -14,7 +14,7 @@ On this site I would like to share my all gained experience from personal studie
 - Creating test cases
 - Reporting bugs
 # Certificates
-  - [ISTQB](https://drive.google.com/drive/u/1/folders/1l9kfTNxvg7gEFQuBvo0dqdFacZMTvU-o)) - No 18815/CTFL/2022
+  - [ISTQB](https://drive.google.com/drive/u/1/folders/1l9kfTNxvg7gEFQuBvo0dqdFacZMTvU-o) - No 18815/CTFL/2022
   - [Certyfikat ukończenia Praktyczny kurs testowania oprogramowania](https://drive.google.com/drive/u/1/folders/1l9kfTNxvg7gEFQuBvo0dqdFacZMTvU-o)
 # Courses
   - [UDEMY Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
