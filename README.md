@@ -20,3 +20,11 @@ On this site I would like to share my all gained experience from personal studie
   - [UDEMY MySQL tworzenie i zarządzanie bazami danych](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/) - during the course
 # Books
   - A.Roman, L.Stapp - Certyfikowany tester ISTQB poziom podstawowy
+# Groups on Facebook
+  - Testowanie oprogramowania - Materiały | Porady
+  - Testowanie oprogramowania
+  - Zostań Testerem Manualnym
+# My test case examples
+  - [Test cases for site lubimyczytac.pl](https://drive.google.com/file/d/1D0U3e0dmMuxV9BhgH6o3SbcsDLrxSCTp/view)
+# My bug reports
+  - [Bugs reported for jakdojade.pl site](https://drive.google.com/file/d/1sT9iaFAbBvyUNfqiVNUetuxjsRdTjKRV/view)
