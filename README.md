@@ -8,6 +8,7 @@ On this site I would like to share my all gained experience from personal studie
 - [ShareX](https://getsharex.com/) - Screen capture and screen recording software
 - [Jira](https://www.atlassian.com/pl/software/jira) - Issue tracking and project management tool for developers
 - [Testlink](https://testlink.org/) - Test Management tool
+- [MySQL](https://www.mysql.com/) - Relational Database Management System
 # Tech skills
 - SQL
 - Manual software testing
