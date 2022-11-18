@@ -19,10 +19,12 @@ On this site I would like to share my all gained experience from personal studie
   - [Certyfikat ukończenia Praktyczny kurs testowania oprogramowania](https://drive.google.com/drive/folders/1l9kfTNxvg7gEFQuBvo0dqdFacZMTvU-o?usp=sharing)
   - [Certyfikat ukończenia MySQL tworzenie i zarządzanie bazami danych](https://drive.google.com/drive/folders/1l9kfTNxvg7gEFQuBvo0dqdFacZMTvU-o?usp=sharing)
   - [Sololearn Course Certificate - Introduction to Python](https://www.sololearn.com/certificates/CC-QLXWZBEU)
+  - [Sololearn Course Certificate - HTML](https://www.sololearn.com/certificates/CT-GMBKJL2F)
 # Courses
   - [UDEMY Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
   - [UDEMY MySQL tworzenie i zarządzanie bazami danych](https://www.udemy.com/course/mysql-tworzenie-i-zarzadzanie-bazami-danych/)
   - [Sololearn - Introduction to Python](https://www.sololearn.com/learn/courses/python-introduction)
+  - [Sololearn - HTML](https://www.sololearn.com/learning/1014)
 # Books
   - A.Roman, L.Stapp - Certyfikowany tester ISTQB poziom podstawowy
 # Groups on Facebook
